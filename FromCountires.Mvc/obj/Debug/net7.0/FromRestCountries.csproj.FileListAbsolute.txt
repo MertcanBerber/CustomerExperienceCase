@@ -1,0 +1,301 @@
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\appsettings.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.sourcelink.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\GitHub\FurkanYukselDersler\Week-08\BÖLÜM-11-API\Week-19\25-06-2023\FromRestCountries\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\appsettings.json
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountries\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\FromRestCountries\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\appsettings.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\FromCountiriesCase\FromRestCountries\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\appsettings.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\FromRestCountiries\FromRestCountries\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\appsettings.json
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\FromCountires\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\appsettings.json
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\FromCountires\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\FromCountires\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\appsettings.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Api\obj\Debug\net7.0\ref\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\appsettings.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\FromRestCountries.staticwebassets.runtime.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\FromRestCountries.exe
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\FromRestCountries.deps.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\FromRestCountries.runtimeconfig.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\bin\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.RazorAssemblyInfo.cs
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.FromRestCountries.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.build.FromRestCountries.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FromRestCountries.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FromRestCountries.props
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\scopedcss\bundle\FromRestCountries.styles.css
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\scopedcss\projectbundle\FromRestCountries.bundle.scp.css
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\refint\FromRestCountries.dll
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.pdb
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\FromRestCountries.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\CharCase\FromCountires.Mvc\obj\Debug\net7.0\ref\FromRestCountries.dll

@@ -1,0 +1,42 @@
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.deps.json
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.pdb
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\refint\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.pdb
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\ref\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.runtimeconfig.json
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\char-mert\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.deps.json
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.runtimeconfig.json
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.pdb
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\refint\CountryApi.Core.dll
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.pdb
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\ref\CountryApi.Core.dll
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.deps.json
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.runtimeconfig.json
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.dll
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\bin\Debug\net8.0\CountryApi.Core.pdb
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.csproj.AssemblyReference.cache
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.AssemblyInfoInputs.cache
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.AssemblyInfo.cs
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.dll
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\refint\CountryApi.Core.dll
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.pdb
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\CountryApi.Core.genruntimeconfig.cache
+C:\Users\mert berber\Desktop\CharCase\CountryApi.Core\obj\Debug\net8.0\ref\CountryApi.Core.dll
